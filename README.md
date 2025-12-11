@@ -36,11 +36,10 @@ Atualmente estou focado em criar interfaces complexas e performáticas, unindo a
 
 - 🔭 **Working on:** ERP para Indústria Têxtil & TCC.
 - 🌱 **Learning:** Next.js 14, Clean Architecture & Typescript avançado.
-- 🎨 **Design Stack:** Heurísticas de Usabilidade, Certificações Google UX COURSERA | IBM | NhN.
+- 🎨 **Design Stack:** Heurísticas de Usabilidade, Certificações Google UX | IBM.
 - ⚡ **Hobbies:** Games, Musculação, Corrida & Design.
-    </td>
-    <td width="45%" align="center">
-      <a href="https://github.com/ryo-ma/github-profile-trophy">
+
+   </td> <td width="45%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=samueljunqueiraa&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="100%" />
       </a>
 
@@ -51,6 +50,7 @@ Atualmente estou focado em criar interfaces complexas e performáticas, unindo a
       <br/>
 
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueljunqueiraa&layout=compact&theme=dracula&hide_border=true&langs_count=6" width="100%" />
+
     </td>
   </tr>
 </table>
