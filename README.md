@@ -39,11 +39,20 @@ Atualmente estou focado em criar interfaces complexas e performáticas, unindo a
 - 🎨 **Design Stack:** Heurísticas de Usabilidade, Certificações Google UX COURSERA | IBM | NhN.
 - ⚡ **Hobbies:** Games, Musculação, Corrida & Design.
 
-</td>
-<td width="40%" align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samueljunqueiraa&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7" />
+<td width="50%" align="center">
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=samueljunqueiraa&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="100%" />
+  </a>
+
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=samueljunqueiraa&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="100%" />
+  
   <br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueljunqueiraa&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=A855F7" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueljunqueiraa&layout=compact&theme=dracula&hide_border=true&langs_count=6" width="100%" />
+
 </td>
   </tr>
 </table>
