@@ -93,14 +93,14 @@ Atualmente estou focado em criar interfaces complexas e performáticas, unindo a
 
 <div align="center">
   
-  ### 🐍 Contribuições (Snake Game)
+  <h3>🐍 Contribuições | Snake Game</h3>
   <img src="https://github.com/samueljunqueiraa/samueljunqueiraa/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
   <br/><br/>
   
-  ### 🎧 Vibe Coding
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=SEU_ID_DO_SPOTIFY&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=samueljunqueira&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" />
+  <h3>🎧 Vibe Coding</h3>
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=3175w7436zffj3f37475v657574i&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=3175w7436zffj3f37475v657574i&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" width="100%" />
   </a>
 
 </div>
