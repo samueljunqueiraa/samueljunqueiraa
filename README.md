@@ -27,7 +27,7 @@
 
 <table border="0" width="100%">
   <tr>
-    <td width="60%" valign="top">
+    <td width="55%" valign="top">
       
 ### 👾 Sobre Mim
       
@@ -38,22 +38,20 @@ Atualmente estou focado em criar interfaces complexas e performáticas, unindo a
 - 🌱 **Learning:** Next.js 14, Clean Architecture & Typescript avançado.
 - 🎨 **Design Stack:** Heurísticas de Usabilidade, Certificações Google UX COURSERA | IBM | NhN.
 - ⚡ **Hobbies:** Games, Musculação, Corrida & Design.
+    </td>
+    <td width="45%" align="center">
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=samueljunqueiraa&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="100%" />
+      </a>
 
-<td width="50%" align="center">
-  
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=samueljunqueiraa&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="100%" />
-  </a>
+      <br/><br/>
 
-  <br/><br/>
+      <img src="https://github-readme-stats.vercel.app/api?username=samueljunqueiraa&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="100%" />
+      
+      <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=samueljunqueiraa&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="100%" />
-  
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueljunqueiraa&layout=compact&theme=dracula&hide_border=true&langs_count=6" width="100%" />
-
-</td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueljunqueiraa&layout=compact&theme=dracula&hide_border=true&langs_count=6" width="100%" />
+    </td>
   </tr>
 </table>
 
@@ -94,7 +92,7 @@ Atualmente estou focado em criar interfaces complexas e performáticas, unindo a
 <div align="center">
   
   <h3>🐍 Contribuições | Snake Game</h3>
-  <img src="https://github.com/samueljunqueiraa/samueljunqueiraa/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/samueljunqueiraa/samueljunqueiraa/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
   <br/><br/>
   
