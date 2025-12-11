@@ -99,8 +99,8 @@ Atualmente estou focado em criar interfaces complexas e performáticas, unindo a
   <br/><br/>
   
   <h3>🎧 Vibe Coding</h3>
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=3175w7436zffj3f37475v657574i&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=3175w7436zffj3f37475v657574i&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" width="100%" />
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=21wnstp4lipwm3i4gmkgrfwlq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=21wnstp4lipwm3i4gmkgrfwlq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" width="100%" />
   </a>
 
 </div>
