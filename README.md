@@ -36,8 +36,8 @@ Atualmente estou focado em criar interfaces complexas e performáticas, unindo a
 
 - 🔭 **Working on:** ERP para Indústria Têxtil & TCC.
 - 🌱 **Learning:** Next.js 14, Clean Architecture & Typescript avançado.
-- 🎨 **Design Stack:** Heurísticas de Usabilidade, Certificações Google/IBM/NhN.
-- ⚡ **Hobbies:** Games, Musculação & Design.
+- 🎨 **Design Stack:** Heurísticas de Usabilidade, Certificações Google UX COURSERA | IBM | NhN.
+- ⚡ **Hobbies:** Games, Musculação, Corrida & Design.
 
 </td>
 <td width="40%" align="center">
