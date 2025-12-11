@@ -25,12 +25,8 @@
 
 <br/>
 
-<table border="0" width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      
 ### 👾 Sobre Mim
-      
+
 Sou um **Product Designer** que ama código ou um **Dev** que ama pixel perfect? Os dois.
 Atualmente estou focado em criar interfaces complexas e performáticas, unindo a heurística de design com a robustez da arquitetura limpa.
 
@@ -38,22 +34,6 @@ Atualmente estou focado em criar interfaces complexas e performáticas, unindo a
 - 🌱 **Learning:** Next.js 14, Clean Architecture & Typescript avançado.
 - 🎨 **Design Stack:** Heurísticas de Usabilidade, Certificações Google UX | IBM.
 - ⚡ **Hobbies:** Games, Musculação, Corrida & Design.
-
-   </td> <td width="45%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=samueljunqueiraa&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="100%" />
-      </a>
-
-      <br/><br/>
-
-      <img src="https://github-readme-stats.vercel.app/api?username=samueljunqueiraa&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="100%" />
-      
-      <br/>
-
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueljunqueiraa&layout=compact&theme=dracula&hide_border=true&langs_count=6" width="100%" />
-
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -91,20 +71,7 @@ Atualmente estou focado em criar interfaces complexas e performáticas, unindo a
 
 <div align="center">
   
-  <h3>🐍 Contribuições | Snake Game</h3>
+  <h3>🐍 Contribuições</h3>
   <img src="https://raw.githubusercontent.com/samueljunqueiraa/samueljunqueiraa/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-  <br/><br/>
-  
-  <h3>🎧 Vibe Coding</h3>
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=21wnstp4lipwm3i4gmkgrfwlq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=21wnstp4lipwm3i4gmkgrfwlq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" width="100%" />
-  </a>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=samueljunqueiraa&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
