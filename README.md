@@ -1,3 +1,4 @@
+#README
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=300&section=header&text=Samuel%20Junqueira&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Product%20Designer%20%7C%20Frontend%20Developer&descAlignY=55&descAlign=62)
 
 <div align="center">
