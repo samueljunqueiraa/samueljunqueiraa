@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Software+Engineer+Front-End;5+Anos+de+Background+em+Design;Arquitetura+de+Software+%2B+Interfaces;IFSULDEMINAS+Information+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Software+Engineer;5+Anos+de+Background+em+Design;Arquitetura+de+Software+%2B+Interfaces;IFSULDEMINAS+Information+Systems" alt="Typing SVG" />
   </a>
 </div>
 
@@ -33,7 +33,7 @@ Sou **Software Engineer Front-End** com **23 anos**, concluindo a graduação em
 
 Programo há mais de **6 anos**, com um diferencial forte: trago **5 anos de background como Designer**. Meu foco não é apenas "fazer funcionar", mas criar arquiteturas escaláveis (Clean Arch) e interfaces visualmente impactantes.
 
-* 🔭 **Foco:** Arquitetura Front-End, React Ecosystem & UI/UX Avançado.
+* 🔭 **Foco:** Arquitetura Back-End, Front-end, Java & UI/UX Avançado.
 * 🎓 **Formação:** Sistemas de Informação (IFSULDEMINAS).
 * ⚡ **Hobbies:** Design, Games & Musculação.
 
