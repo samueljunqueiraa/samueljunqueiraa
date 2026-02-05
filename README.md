@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=300&section=header&text=Samuel%20Junqueira&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20Front-End%20%7C%20Product%20Designer&descAlignY=55&descAlign=62)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=300&section=header&text=Samuel%20Junqueira&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%20%7C%20Product%20Designer&descAlignY=55&descAlign=62)
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -29,7 +29,7 @@
 
 ### 🚀 Sobre Mim
 
-Sou **Software Engineer Front-End** com **23 anos**, concluindo a graduação em Sistemas de Informação pelo **IFSULDEMINAS**.
+Sou **Software Engineer** com **23 anos**, concluindo a graduação em Sistemas de Informação pelo **IFSULDEMINAS**.
 
 Programo há mais de **6 anos**, com um diferencial forte: trago **5 anos de background como Designer**. Meu foco não é apenas "fazer funcionar", mas criar arquiteturas escaláveis (Clean Arch) e interfaces visualmente impactantes.
 
