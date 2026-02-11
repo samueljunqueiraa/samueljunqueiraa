@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=300&section=header&text=Samuel%20Junqueira&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%20%7C%20Product%20Designer&descAlignY=55&descAlign=62)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=300&section=header&text=Samuel%20Junqueira&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%20%7C%&descAlignY=55&descAlign=62)
 
 <div align="center">
   <a href="https://git.io/typing-svg">
