@@ -31,9 +31,10 @@
 
 Sou **Software Engineer** com **23 anos**, concluindo a graduação em Sistemas de Informação pelo **IFSULDEMINAS**.
 
-Programo há mais de **6 anos**, com um diferencial forte: trago **5 anos de background como Designer**. Meu foco não é apenas "fazer funcionar", mas criar arquiteturas escaláveis (Clean Arch) e interfaces visualmente impactantes.
+Programo há mais de **5 anos**, com um diferencial forte: trago **5 anos de background como Designer**. Meu foco não é apenas "fazer funcionar", mas criar arquiteturas escaláveis (Clean Arch) e interfaces visualmente impactantes.
 
-* 🔭 **Foco:** Arquitetura Back-End, Front-end, Java & UI/UX Avançado.
+* 🔭 **Foco:** Arquitetura Back-End, usando Java com Spring, Design Systems, Clean Code, API-Rest, SQL.
+* 🔭 **Habilidades:** Habilidades com Design, UX/UI, Front-End com Angular & React.
 * 🎓 **Formação:** Sistemas de Informação (IFSULDEMINAS).
 * ⚡ **Hobbies:** Design, Games & Musculação.
 
