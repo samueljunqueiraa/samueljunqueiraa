@@ -10,35 +10,35 @@ from generator.svg_builder import SVGBuilder
 
 @pytest.fixture
 def sample_config():
-    """A valid config dict with 3 galaxy_arms and 2 projects."""
+    """A valid config dict with 3 galaxy_arms and 2 projects tailored for Samuel's profile."""
     return {
-        "username": "galaxy-dev",
+        "username": "samueljunqueiraa",
         "profile": {
-            "name": "Nyx Orion",
-            "tagline": "Full Stack Developer & Open Source Explorer",
-            "company": "Stellar Labs",
-            "location": "San Francisco, CA",
-            "bio": "Building tools that make developers' lives easier.",
+            "name": "Samuel Junqueira",
+            "tagline": "Systems Analyst | Java Specialist",
+            "company": "Fábrica",
+            "location": "Machado, MG",
+            "bio": "Analista de Sistemas focado no ecossistema Java e arquiteturas modernas.",
             "philosophy": "The best code is the code that empowers others.",
         },
         "social": {
-            "email": "nyx@stellarlabs.dev",
-            "linkedin": "nyxorion",
-            "website": "https://nyxorion.dev",
+            "email": "samuel@example.com",
+            "linkedin": "samueljunqueiraa",
+            "website": "https://github.com/samueljunqueiraa",
         },
         "galaxy_arms": [
-            {"name": "Frontend", "color": "dendrite_violet", "items": ["TypeScript", "React", "CSS"]},
-            {"name": "Backend", "color": "synapse_cyan", "items": ["Python", "Node.js", "PostgreSQL"]},
-            {"name": "DevOps", "color": "axon_amber", "items": ["Docker", "GitHub Actions", "AWS"]},
+            {"name": "Java Backend", "color": "synapse_cyan", "items": ["Java 21", "Spring Boot", "JPA", "PostgreSQL"]},
+            {"name": "Frontend & UI", "color": "dendrite_violet", "items": ["TypeScript", "React", "Tailwind", "Flutter"]},
+            {"name": "Architecture & Ops", "color": "axon_amber", "items": ["Hexagonal Architecture", "DDD", "Docker", "Git"]},
         ],
         "projects": [
-            {"repo": "galaxy-dev/nebula-ui", "arm": 0, "description": "A component library."},
-            {"repo": "galaxy-dev/stargate-api", "arm": 1, "description": "High-performance API gateway."},
+            {"repo": "samueljunqueiraa/erp-industrial", "arm": 0, "description": "ERP construído do zero para gestão fabril."},
+            {"repo": "samueljunqueiraa/wallet-ddd", "arm": 2, "description": "Implementação de carteira utilizando Hexagonal Architecture."},
         ],
         "theme": {
-            "void": "#080c14",
-            "nebula": "#0f1623",
-            "star_dust": "#1a2332",
+            "void": "#020c20",
+            "nebula": "#051633",
+            "star_dust": "#0a224a",
             "synapse_cyan": "#00d4ff",
             "dendrite_violet": "#a78bfa",
             "axon_amber": "#ffb020",
@@ -47,7 +47,7 @@ def sample_config():
             "text_faint": "#64748b",
         },
         "stats": {"metrics": ["commits", "stars", "prs", "issues", "repos"]},
-        "languages": {"exclude": ["HTML", "CSS", "Shell", "Makefile"], "max_display": 8},
+        "languages": {"exclude": ["HTML", "Shell", "Makefile"], "max_display": 8},
     }
 
 
@@ -59,16 +59,15 @@ def sample_stats():
 
 @pytest.fixture
 def sample_languages():
-    """Language byte counts."""
+    """Language byte counts reflecting a Java-heavy focus."""
     return {
-        "Python": 450000,
-        "TypeScript": 380000,
+        "Java": 650000,
+        "TypeScript": 280000,
         "JavaScript": 120000,
-        "Go": 95000,
-        "Rust": 45000,
-        "Shell": 30000,
+        "Dart": 95000,
+        "CSS": 45000,
+        "PL/pgSQL": 30000,
         "Dockerfile": 15000,
-        "CSS": 10000,
     }
 
 
@@ -79,6 +78,10 @@ def cfg(sample_config):
 
 
 @pytest.fixture
+def svg_builder(sample_config, sample_stats, sample_languages):
+    """Create an SVGBuilder from validated sample fixtures."""
+    config = validate_config(copy.deepcopy(sample_config))
+    return SVGBuilder(config, sample_stats, sample_languages)
 def svg_builder(sample_config, sample_stats, sample_languages):
     """Create an SVGBuilder from validated sample fixtures."""
     config = validate_config(copy.deepcopy(sample_config))
