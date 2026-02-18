@@ -1,16 +1,29 @@
-"""Shared fixtures for galaxy-profile tests."""
+"""Shared fixtures for galaxy-profile tests with real data integration."""
 
 import copy
-
+import os
 import pytest
 
 from generator.config import validate_config
 from generator.svg_builder import SVGBuilder
+from generator.github_api import GitHubAPI  # Importando a API real
 
+@pytest.fixture
+def real_data():
+    """Busca dados reais do seu perfil usando o GITHUB_TOKEN do ambiente."""
+    token = os.getenv("GITHUB_TOKEN")
+    if not token:
+        pytest.skip("GITHUB_TOKEN não encontrado. Pulando teste com dados reais.")
+    
+    api = GitHubAPI(token)
+    stats = api.get_user_stats("samueljunqueiraa")
+    languages = api.get_language_stats("samueljunqueiraa")
+    
+    return stats, languages
 
 @pytest.fixture
 def sample_config():
-    """A valid config dict with 3 galaxy_arms and 2 projects tailored for Samuel's profile."""
+    """Configuração validada com seus dados de Systems Analyst."""
     return {
         "username": "samueljunqueiraa",
         "profile": {
@@ -18,13 +31,8 @@ def sample_config():
             "tagline": "Systems Analyst | Java Specialist",
             "company": "Fábrica",
             "location": "Machado, MG",
-            "bio": "Analista de Sistemas focado no ecossistema Java e arquiteturas modernas.",
+            "bio": "Analista de Sistemas focado no ecossistema Java.",
             "philosophy": "The best code is the code that empowers others.",
-        },
-        "social": {
-            "email": "samuel@example.com",
-            "linkedin": "samueljunqueiraa",
-            "website": "https://github.com/samueljunqueiraa",
         },
         "galaxy_arms": [
             {"name": "Java Backend", "color": "synapse_cyan", "items": ["Java 21", "Spring Boot", "JPA", "PostgreSQL"]},
@@ -32,8 +40,8 @@ def sample_config():
             {"name": "Architecture & Ops", "color": "axon_amber", "items": ["Hexagonal Architecture", "DDD", "Docker", "Git"]},
         ],
         "projects": [
-            {"repo": "samueljunqueiraa/erp-industrial", "arm": 0, "description": "ERP construído do zero para gestão fabril."},
-            {"repo": "samueljunqueiraa/wallet-ddd", "arm": 2, "description": "Implementação de carteira utilizando Hexagonal Architecture."},
+            {"repo": "samueljunqueiraa/erp-industrial", "arm": 0, "description": "ERP para gestão fabril."},
+            {"repo": "samueljunqueiraa/wallet-ddd", "arm": 2, "description": "Projeto Wallet com Hexagonal Architecture."},
         ],
         "theme": {
             "void": "#020c20",
@@ -50,39 +58,9 @@ def sample_config():
         "languages": {"exclude": ["HTML", "Shell", "Makefile"], "max_display": 8},
     }
 
-
 @pytest.fixture
-def sample_stats():
-    """Realistic stats dict."""
-    return {"commits": 1847, "stars": 342, "prs": 156, "issues": 89, "repos": 42}
-
-
-@pytest.fixture
-def sample_languages():
-    """Language byte counts reflecting a Java-heavy focus."""
-    return {
-        "Java": 650000,
-        "TypeScript": 280000,
-        "JavaScript": 120000,
-        "Dart": 95000,
-        "CSS": 45000,
-        "PL/pgSQL": 30000,
-        "Dockerfile": 15000,
-    }
-
-
-@pytest.fixture
-def cfg(sample_config):
-    """Return a deep copy of sample_config for mutation-safe tests."""
-    return copy.deepcopy(sample_config)
-
-
-@pytest.fixture
-def svg_builder(sample_config, sample_stats, sample_languages):
-    """Create an SVGBuilder from validated sample fixtures."""
+def svg_builder(sample_config, real_data):
+    """Cria o SVGBuilder usando o espelho dos seus dados REAIS do GitHub."""
+    stats, languages = real_data
     config = validate_config(copy.deepcopy(sample_config))
-    return SVGBuilder(config, sample_stats, sample_languages)
-def svg_builder(sample_config, sample_stats, sample_languages):
-    """Create an SVGBuilder from validated sample fixtures."""
-    config = validate_config(copy.deepcopy(sample_config))
-    return SVGBuilder(config, sample_stats, sample_languages)
+    return SVGBuilder(config, stats, languages)
