@@ -1,81 +1,41 @@
-# Galaxy Profile README Configuration
-# Copy this file to config.yml and customize it to make it your own!
-#
-# Usage:
-#   cp config.example.yml config.yml
-#   # Edit config.yml with your details
-#   python -m generator.main
-#
-# Demo mode (no API calls, uses this file directly):
-#   python -m generator.main --demo
 
-# Your GitHub username (required)
-username: galaxy-dev
+username: samueljunqueiraa
 
-# Profile information displayed in the galaxy header
 profile:
   name: "Samuel Junqueira"
-  tagline: "Back-end Developer"
-  company: "Splindid Systems"
-  location: "Minas Gerais, Brazil"
-  bio: |
-    Building tools that make developers' lives easier.
-    Passionate about distributed systems, developer experience, and the open-source ecosystem.
-  philosophy: '"The best code is the code that empowers others."'
+  tagline: "Systems Analyst | Java Specialist"
+  philosophy: "The best code is the code that empowers others."
 
-# Social links displayed at the bottom of the profile
-social:
-  email: "samuel_junqueira@outlook.com"
-  linkedin: "samuel-junqueira"
-  website: "https://samueljunqueira.com.br"
-
-# Galaxy arms represent your core focus areas
-# Each arm spirals out from the center with its own color and tech items
-# Available colors: "synapse_cyan", "dendrite_violet", "axon_amber"
-# Galaxy Arms Configuration
 galaxy_arms:
   - name: "Java Backend"
     color: "synapse_cyan"
-    items:
-      - "Java 21"
-      - "Spring Boot"
-      - "JPA / Hibernate"
-      - "PostgreSQL"
-  - name: "Frontend & UI"
+    items: ["Java 21", "Spring Boot", "JPA", "PostgreSQL"]
+  - name: "Frontend & Mobile"
     color: "dendrite_violet"
-    items:
-      - "TypeScript"
-      - "React"
-      - "Tailwind CSS"
-      - "Flutter"
+    items: ["TypeScript", "React", "Tailwind", "Flutter"]
   - name: "Architecture & Ops"
     color: "axon_amber"
-    items:
-      - "Hexagonal"
-      - "Docker"
-      - "GitHub Actions"
-      - "MySQL"
+    items: ["Hexagonal", "DDD", "Docker", "Git"]
 
-# Featured projects shown as constellation stars
 projects:
   - repo: "samueljunqueiraa/erp-industrial"
     arm: 0
-    description: "ERP completo construído do zero para gestão fabril e automação de processos."
+    description: "Sistema ERP construído do zero para gestão de fábrica e automação industrial."
   - repo: "samueljunqueiraa/wallet-ddd"
     arm: 2
-    description: "Projeto de carteira transacional aplicando Arquitetura Hexagonal e testes complexos."
+    description: "Implementação de carteira transacional utilizando Arquitetura Hexagonal."
 
-# Theme color overrides - Ajustado para o tema 020C20
+# Theme color overrides
 theme:
-  void: "#020c20"               # Seu azul marinho profundo (Fundo principal)
-  nebula: "#051633"             # Azul ligeiramente mais claro para os cards
-  star_dust: "#0a224a"          # Bordas e divisórias
-  synapse_cyan: "#00d4ff"       # Brilho ciano para o braço Java
-  dendrite_violet: "#a78bfa"    # Violeta para o braço Frontend
-  axon_amber: "#ffb020"         # Âmbar para o braço de Arquitetura
-  text_bright: "#f1f5f9"        # Texto principal
-  text_dim: "#94a3b8"           # Texto secundário
-  text_faint: "#64748b"         # Labels e textos mudos
+  void: "#020c20"               
+  nebula: "#051633"             
+  star_dust: "#0a224a"         
+  synapse_cyan: "#00d4ff"      
+  dendrite_violet: "#a78bfa"    
+  axon_amber: "#ffb020"         
+  text_bright: "#f1f5f9"       
+  text_dim: "#94a3b8"           
+  text_faint: "#64748b"         
 
 # Stats configuration
 stats:
