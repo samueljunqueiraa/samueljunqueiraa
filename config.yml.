@@ -1,0 +1,65 @@
+username: samueljunqueiraa
+profile:
+  name: "Samuel Junqueira"
+  tagline: "Systems Analyst | Java Specialist"
+  company: "Indústria"
+  location: "Machado, MG"
+  bio: "Analista de Sistemas focado no ecossistema Java e arquiteturas modernas."
+  philosophy: "The best code is the code that empowers others."
+
+galaxy_arms:
+  - name: "Java Backend"
+    color: "synapse_cyan"
+    items:
+      - "Java 21"
+      - "Spring Boot"
+      - "JPA"
+      - "PostgreSQL"
+  - name: "Frontend"
+    color: "dendrite_violet"
+    items:
+      - "TypeScript"
+      - "React"
+      - "CSS"
+      - "Tailwind"
+  - name: "Architecture"
+    color: "axon_amber"
+    items:
+      - "Hexagonal"
+      - "DDD"
+      - "Docker"
+      - "Git"
+
+projects:
+  - repo: "samueljunqueiraa/erp-industrial"
+    arm: 0
+    description: "ERP completo construído do zero para gestão fabril."
+  - repo: "samueljunqueiraa/wallet-ddd"
+    arm: 2
+    description: "Carteira transacional com Hexagonal Architecture."
+
+theme:
+  void: "#020c20"
+  nebula: "#051633"
+  star_dust: "#0a224a"
+  synapse_cyan: "#00d4ff"
+  dendrite_violet: "#a78bfa"
+  axon_amber: "#ffb020"
+  text_bright: "#f1f5f9"
+  text_dim: "#94a3b8"
+  text_faint: "#64748b"
+
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+languages:
+  exclude:
+    - "HTML"
+    - "Shell"
+    - "Makefile"
+  max_display: 8
