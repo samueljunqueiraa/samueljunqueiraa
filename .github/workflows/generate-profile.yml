@@ -1,0 +1,4 @@
+- name: Generate Galaxy SVGs
+        run: python -m generator.main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
