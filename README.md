@@ -77,23 +77,6 @@ Programo há mais de **5 anos**, com um diferencial forte: trago **5 anos de bac
 * 🎓 **Formação:** Sistemas de Informação.
 * ⚡ **Hobbies:** Design, Games & Musculação.
 
-<br/>
-
-<div align="center">
-  <table border="0" width="100%" cellspacing="0" cellpadding="0">
-    <tr>
-      <td align="center" width="50%">
-        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=samueljunqueiraa&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td align="center" width="50%">
-        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samueljunqueiraa&layout=compact&langs_count=20&theme=radical" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
 ---
 
 ### 🛠️ Arsenal Tecnológico
