@@ -123,11 +123,10 @@ Docker · Git · CI/CD · Linux · GitHub Actions · N8N
 
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp,digitalocean" />
 <br/>
-<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
 ```
 AWS — EC2 · S3 · RDS  ·  Azure — App Service · Blob Storage
-GCP · DigitalOcean · Oracle Cloud
+GCP · DigitalOcean 
 ```
 
 <br/>
