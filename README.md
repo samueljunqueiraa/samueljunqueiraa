@@ -96,8 +96,8 @@ Newsletter técnica sobre Carreira, arquitetura e IA aplicada → em breve em [s
  
 ### Cloud
  
-<img src="https://skillicons.dev/icons?i=aws" />
- 
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
+
 ---
  
 ### Frontend
