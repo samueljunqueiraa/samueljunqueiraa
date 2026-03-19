@@ -108,12 +108,12 @@ Newsletter técnica sobre Carreira, arquitetura e IA aplicada → em breve em [s
  
 ---
  
-## Metas
- 
-- Atuar como **Java Backend Developer** em fintech ou indústria em sistemas de alta criticidade
-- Aprofundar em arquiteturas distribuídas, Kafka e observabilidade em produção
+## `// metas`
+
+- Atuar como **Java Backend Developer** em sistemas de alta criticidade e impacto real
+- Aprofundar em arquiteturas distribuídas, Kafka e observabilidade em produção  
 - Lançar **newsletter técnica** sobre Java, arquitetura e IA aplicada
-- Concluir Bacharelado em Sistemas de Informação — IFSULDEMINAS
+- Iniciar mestrado em Ciência da Computação
  
 ---
  
