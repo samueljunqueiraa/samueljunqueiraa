@@ -5,11 +5,10 @@ from __future__ import annotations
 TECH_CATALOG = {
     "Frontend": [
         "React", "Vue.js", "Angular", "Svelte", "Next.js", "Nuxt.js",
-        "Astro", "HTML", "CSS", "SCSS", "Tailwind CSS", "Bootstrap",
+        "TypeScript", "HTML", "CSS", "SCSS", "Tailwind CSS", "WordPress",
     ],
     "Backend": [
-        "Node.js", "Python", "Go", "Rust", "Java", "C#", "Ruby", "PHP",
-        "Elixir", "Kotlin",
+        "Java", "Spring", "Go", "C++", "Java", "C#", "Ruby", "PHP",
     ],
     "Mobile": [
         "React Native", "Flutter", "Swift", "Kotlin", "Dart",
