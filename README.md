@@ -1,9 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=020C20&height=320&section=header&text=Samuel%20Junqueira&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Systems%20Analyst&descAlignY=58&descAlign=50&fontFamily=Manrope" width="100%"/>
-  #### Desenvolvedor Back-end focado no ecossistema Java, desenvolvendo soluções robustas para a indústria e explorando arquiteturas modernas e funcionais. Atualmente finalizando Bacharelado em Sistemas de Informação pelo IFSULDEMINAS.
-  
+  Desenvolvedor Back-end focado no ecossistema Java, desenvolvendo soluções robustas para a indústria e explorando arquiteturas modernas e funcionais. Atualmente finalizando Bacharelado em Sistemas de Informação pelo IFSULDEMINAS.
 </div>
-
+ <br/>
 <div align="center">
   <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
 </div>
