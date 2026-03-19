@@ -42,7 +42,7 @@
  
 Programo há mais de **5 anos**. Comecei como Designer — hoje construo sistemas backend que precisam funcionar de verdade, em produção, sob pressão. O background em design não me faz frontend: me faz um backend developer que entende produto, comunica bem e entrega APIs que outras pessoas conseguem usar.
  
-**Foco atual:** Java Backend · Fintech · Indústria · IA Aplicada
+**Foco:** Desenvolver Produtos e Soluções com Java & IA Aplicada
  
 </div>
  
@@ -55,13 +55,10 @@ Programo há mais de **5 anos**. Comecei como Designer — hoje construo sistema
 <td width="50%" valign="top">
  
 **🔷 Backend & Sistemas Críticos**
-Construção de APIs REST transacionais com Java, Spring Boot e PostgreSQL. Foco em consistência, segurança e regras de negócio complexas em domínios financeiros e industriais.
+Construção de APIs REST transacionais com Java, Spring Boot e PostgreSQL. Foco em consistência, segurança e regras de negócio complexas.
  
 **🔷 Arquitetura de Software**
 Clean Architecture, Hexagonal Architecture e SOLID aplicados em projetos reais — com ênfase em testabilidade e separação de responsabilidades.
- 
-**🔷 Sistemas Industriais & Fintech**
-ERP para gestão fabril (ordens de corte, rastreabilidade, estoque) e APIs de carteira digital com controle transacional real.
  
 </td>
 <td width="50%" valign="top">
