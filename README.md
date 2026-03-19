@@ -121,12 +121,12 @@ Docker · Git · CI/CD · Linux · GitHub Actions · N8N
 
 **` Cloud `**
 
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,digitalocean" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
 <br/>
 
 ```
 AWS — EC2 · S3 · RDS  ·  Azure — App Service · Blob Storage
-GCP · DigitalOcean 
+GCP
 ```
 
 <br/>
