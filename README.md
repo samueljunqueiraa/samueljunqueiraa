@@ -1,6 +1,7 @@
+Markdown
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=020C20&height=220&section=header&text=Samuel%20Junqueira&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=%20%20Developer&descAlignY=65&descAlign=50&fontFamily=Manrope" width="100%"/>
-  <sub>Desenvolvedor Back-end focado no ecossistema Java,Desenvolvendo soluções robustas para negócios de alto impacto explorando arquiteturas modernas e funcionais. Atualmente finalizando Bacharelado em Sistemas de Informação pelo IFSULDEMINAS.</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=020C20&height=220&section=header&text=Samuel%20Junqueira&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=%20%20Software%20Engineer&descAlignY=65&descAlign=50&fontFamily=Manrope" width="100%"/>
+  <sub>Desenvolvedor Full Stack com forte foco em Backend. Focado em produtos de impacto, construindo sistemas de alta disponibilidade e explorando arquiteturas modernas. Atualmente finalizando Bacharelado em Sistemas de Informação pelo IFSULDEMINAS.</sub>
 </div>
 <br/>
 <div align="center">
@@ -26,13 +27,15 @@
 
 ---
 
-### `⬡` Sobre Mim
+### Sobre Mim
 
 <div align="justify">
 
-Programo há mais de **5 anos**. Comecei como Designer bem novo, lá em 2017 — em 2020 iniciei minha jornada como Webdesigner — hoje construo sistemas backend que precisam funcionar de verdade, em produção, sob pressão. O background em design não me faz frontend: me faz um backend developer que entende produto, comunica bem e entrega APIs que outras pessoas conseguem usar.
+Atuo na área de tecnologia há mais de **8 anos**. Iniciei minha jornada com um forte background como WebDesigner e hoje atuo como **Desenvolvedor Full Stack com foco em Backend**, construindo sistemas críticos que precisam operar sob pressão e escalar com alta disponibilidade. 
 
-**Foco:** Desenvolver Produtos e Soluções com Java & IA Aplicada
+Minha bagagem em design me proporciona uma visão de produto ponta a ponta: entendo a experiência do usuário no front-end, mas aplico essa visão construindo APIs robustas, arquiteturas escaláveis e regras de negócio sólidas. 
+
+**Engenharia de Software Assistida por IA:** Meu fluxo de desenvolvimento é altamente otimizado através da orquestração de Inteligência Artificial. Utilizo agentes autônomos e copilotos (**Claude Code, GitHub Copilot, Codex**) integrados à minha base de conhecimento no **Obsidian**. Opero sob o framework de *RALF Loop* (Review, Align, Log, and Forward) para delegar tarefas, refatorar código e documentar arquiteturas, garantindo alta produtividade técnica sem perder o controle da engenharia e da manutenibilidade do software.
 
 </div>
 
@@ -40,18 +43,25 @@ Programo há mais de **5 anos**. Comecei como Designer bem novo, lá em 2017 —
 
 ---
 
-### `⬡` Especialização
+### Especialização
 
 <br/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
 ```
 🔷 Backend & Sistemas Críticos
 ```
-Construção de APIs REST transacionais com Java, Spring Boot e PostgreSQL. Foco em consistência, segurança e regras de negócio complexas.
+Construção de APIs RESTful transacionais e sistemas distribuídos. Domínio em ecossistemas **Java (Spring Boot)** e **C# (.NET)**, além de modelagem e otimização de bancos relacionais (PostgreSQL, SQL) e não-relacionais (MongoDB, Firebase).
+
+```
+🔷Ecossistema Frontend & Mobile
+```
+Desenvolvimento de interfaces tipadas, reativas e de alta performance utilizando **Angular, React e TypeScript**, com estilização avançada via **Tailwind e CSS**. Experiência em desenvolvimento mobile multiplataforma com **Flutter**.
 
 <br/>
 
@@ -73,12 +83,12 @@ Integração de LLMs e automação inteligente em sistemas Java. Agentes com N8N
 ```
 📐 Design como diferencial técnico
 ```
-5 anos como Designer me deram visão de produto rara entre devs backend. Não para desenvolver interfaces — para construir sistemas que outros conseguem usar.
+4 anos como Webdesigner me deram visão de produto rara entre devs backend. Não para desenvolver interfaces — para construir sistemas que outros conseguem usar.
 
 <br/>
 
 ```
-📡 Em construção
+📡 Stack Tecnológica
 ```
 Newsletter técnica sobre Carreira, arquitetura e IA aplicada → em breve em [samueljunqueira.com.br](https://samueljunqueira.com.br/)
 
@@ -90,7 +100,7 @@ Newsletter técnica sobre Carreira, arquitetura e IA aplicada → em breve em [s
 
 ---
 
-### `⬡` Stack
+### Stack
 
 <br/>
 
@@ -130,7 +140,7 @@ GCP
 
 <br/>
 
-**` Frontend `** *(background — não foco atual)*
+**` Frontend `**
 
 <img src="https://skillicons.dev/icons?i=react,angular,flutter,ts,tailwind" />
 
@@ -144,7 +154,7 @@ React · Angular · Flutter · TypeScript · Tailwind
 
 ---
 
-### `⬡` Projetos em Destaque
+### Projetos em Destaque
 
 <br/>
 
@@ -161,7 +171,7 @@ React · Angular · Flutter · TypeScript · Tailwind
 
 ---
 
-### `⬡` Metas
+### Metas
 
 <br/>
 
@@ -176,7 +186,7 @@ React · Angular · Flutter · TypeScript · Tailwind
 
 ---
 
-### `⬡` Leituras que Moldaram Minha Visão
+### Leituras que Moldaram Minha Visão
 
 <br/>
 
@@ -196,7 +206,7 @@ React · Angular · Flutter · TypeScript · Tailwind
 
 ---
 
-### `⬡` Contato
+### Contato
 
 <br/>
 
