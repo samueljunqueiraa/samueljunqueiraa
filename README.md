@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=020C20&height=220&section=header&text=Samuel%20Junqueira&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=%20B%20Developer&descAlignY=65&descAlign=50&fontFamily=Manrope" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=020C20&height=220&section=header&text=Samuel%20Junqueira&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=%20%20Developer&descAlignY=65&descAlign=50&fontFamily=Manrope" width="100%"/>
   <sub>Desenvolvedor Back-end focado no ecossistema Java,Desenvolvendo soluções robustas para negócios de alto impacto explorando arquiteturas modernas e funcionais. Atualmente finalizando Bacharelado em Sistemas de Informação pelo IFSULDEMINAS.</sub>
 </div>
 <br/>
