@@ -1,8 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=020C20&height=220&section=header&text=Samuel%20Junqueira&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=%20%20Software%20Engineer&descAlignY=65&descAlign=50&fontFamily=Manrope" width="100%"/>
-  <sub>Desenvolvedor Full Stack com forte foco em Backend. Focado em produtos de impacto, construindo sistemas de alta disponibilidade e explorando arquiteturas modernas. Atualmente finalizando Bacharelado em Sistemas de Informação pelo IFSULDEMINAS.</sub>
+  Desenvolvedor Full Stack com forte foco em Backend. Focado em produtos de impacto, construindo sistemas de alta disponibilidade e explorando arquiteturas modernas. Atualmente finalizando Bacharelado em Sistemas de Informação pelo IFSULDEMINAS.
 </div>
-<br/>
 <div align="center">
   <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
 </div>
